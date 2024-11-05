@@ -1,0 +1,69 @@
+* {
+  font-family: Poppins, Helvetica, Arial, sans-serif;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+:root {
+  font-size: 20px;
+}
+
+body {
+  font-size: 1rem;
+  background-color: white;
+  color: black;
+  margin-top: 150px;
+}
+
+/* ================================================================= */
+main {
+  justify-self: center;
+}
+
+nav {
+  background-color: white;
+  position: fixed;
+  left: 0; right: 0; top: 0;
+  box-shadow: 0 0 7px 4px #0003;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.post {
+  display: flex;
+  gap: 50px;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 0 7px 4px #0003;
+  max-width: 1000px;
+  margin-top: 50px;
+}
+
+  .post-number {
+    font-weight: 600;
+    font-size: 3rem;
+  }
+
+  .post-right {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+    .post-date-time {
+      color: #777;
+      font-size: 0.7rem;
+    }
+
+    .post-title {
+      font-size: 1.8rem;
+      font-weight: 600;
+    }
+
+    .post-content {
+      line-height: 1.9;
+    }
