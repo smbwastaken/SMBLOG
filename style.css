@@ -22,8 +22,8 @@ body {
 
 .logo-div {
 	position: relative;
-  top: 10px;
-   white-space: nowrap;
+    top: 10px;
+   	white-space: nowrap;
 }
 
 .svg-logo {
@@ -55,9 +55,11 @@ header a {
   text-decoration: none;
 }
 
-main {
+.middle-content {
   justify-self: center;
-  margin-bottom: 400px;
+  margin-bottom: 200px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .post {
