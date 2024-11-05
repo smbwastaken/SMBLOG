@@ -14,16 +14,17 @@ body {
   font-size: 1rem;
   background-color: white;
   color: black;
-  margin-top: 150px;
+  margin-top: 110px;
 }
 
 /* ================================================================= */
+
 main {
   justify-self: center;
   margin-bottom: 500px;
 }
 
-nav {
+header {
   background-color: white;
   position: fixed;
   left: 0; right: 0; top: 0;
