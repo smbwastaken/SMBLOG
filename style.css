@@ -19,11 +19,6 @@ body {
 
 /* ================================================================= */
 
-main {
-  justify-self: center;
-  margin-bottom: 400px;
-}
-
 header {
   background-color: white;
   position: fixed;
@@ -33,6 +28,16 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+header a {
+  color: black;
+  text-decoration: none;
+}
+
+main {
+  justify-self: center;
+  margin-bottom: 400px;
 }
 
 .post {
