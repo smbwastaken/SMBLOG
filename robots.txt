@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://smbwastaken.github.io/SMBLOG/sitemap.xml
