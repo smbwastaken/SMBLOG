@@ -20,10 +20,12 @@ body {
 /* ================================================================= */
 
 
+
 .logo-div {
-	position: relative;
-    top: 10px;
    	white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 4px;
 }
 
 .svg-logo {
@@ -35,7 +37,7 @@ body {
   font-size: 2.9rem;
   display: inline-block;
   position: relative;
-  right: 42px; bottom: 50px;
+  right: 0px; bottom: 0px;
 }
 
 
@@ -72,9 +74,11 @@ header a {
   margin-top: 50px;
 }
 
+
   .post-number {
     font-weight: 600;
     font-size: 3rem;
+    width: 50px;
   }
 
   .post-right {
