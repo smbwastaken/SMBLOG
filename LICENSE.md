@@ -27,6 +27,6 @@ This project is provided "as is," without warranty of any kind, express or impli
 If you use this code or any part of it, you must also acknowledge and comply with the licenses of any third-party dependencies included in this project. This includes providing proper attribution to any such dependencies, as described in their respective license files.
 
 ### Authenticity:
-This site is the only authentic blog site I own and operate; any other blog or site is not associated with my work.
+TThis is the only authentic blog site I own and operate; I have other websites, but none of them are blogs or associated with this specific blog's content. Any other blog or site claiming to be mine is not legitimate.
 
 For any inquiries or permission requests, please contact me directly.
