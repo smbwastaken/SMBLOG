@@ -57,6 +57,11 @@ header a {
   text-decoration: none;
 }
 
+.contents {
+  display: flex;
+  justify-content: center;
+}
+
 .middle-content {
   margin-bottom: 200px;
   margin-left: auto;
