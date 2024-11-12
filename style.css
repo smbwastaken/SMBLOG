@@ -58,8 +58,7 @@ header a {
 }
 
 .middle-content {
-  justify-self: center;
   margin-bottom: 200px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: auto;
+  margin-right: auto;
 }
