@@ -1,5 +1,7 @@
 User-agent: *
 Disallow:
+Allow: /favicon.png
+
 crawl-delay: 15
 
 Sitemap: https://smbwastaken.github.io/SMBLOG/sitemap.xml
