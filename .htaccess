@@ -1,1 +1,5 @@
 ErrorDocument 404 /404.html
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^smbwastaken\.github\.io$ [NC]
+RewriteCond %{REQUEST_URI} ^/SMBLOG/(.*)$
+RewriteRule ^ /smblog/%1 [L,R=301]

@@ -4,4 +4,4 @@ Allow: /favicon.png
 
 crawl-delay: 15
 
-Sitemap: https://smbwastaken.github.io/SMBLOG/sitemap.xml
+Sitemap: https://samibellabd.netlify.app/smblog/sitemap.xml
