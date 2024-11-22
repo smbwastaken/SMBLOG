@@ -2,7 +2,7 @@
 
 ## 06/11/2024, DEFINITIVE UPDATE (here)
 - The website moved permanently to another domain while switching from *Github Pages* to *Netlify*, from `https://smbwastaken.github.io/SMBLOG/` to `https://samibellabd.netlify.app/smblog/`. This current website won't be getting any updates from now on, it's not usable, [click here to go to the new original website.](https://samibellabd.netlify.app/smblog/)
-- This website now has a redirect page, it looks cool you might want to check it outm it also got a redesigned logo and favicon.
+- This website now has a redirect page, it looks cool you might want to check it out, it also got a redesigned logo and favicon.
 
 ## 06/11/2024 08:00 PM
 The website has its very first favicon.
